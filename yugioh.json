@@ -1,0 +1,35 @@
+{
+  "Duel Monsters": {
+    "total": 224,
+    "seasons": [49, 48, 47, 40, 40]
+  },
+  "GX": {
+    "total": 180,
+    "seasons": [52, 52, 52, 24]
+  },
+  "5Ds": {
+    "total": 154,
+    "seasons": [26, 38, 28, 42, 20]
+  },
+  "Zexal": {
+    "total": 146,
+    "seasons": [25, 24, 24, 25, 25, 23]
+  },
+  "Arc-V": {
+    "total": 148,
+    "seasons": [49, 50, 49]
+  },
+  "VRAINS": {
+    "total": 120,
+    "seasons": [46, 57, 17]
+  },
+  "Sevens": {
+    "total": 92,
+    "seasons": [52, 40]
+  },
+  "Go Rush!!": {
+    "total": 99,
+    "seasons": [51, 48]
+  },
+  "currentEpisode": ["5Ds", 1, 36]
+}

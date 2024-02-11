@@ -1,0 +1,51 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url('./assets/card-back.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  justify-content: center;
+  background-size: cover;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  font-size: 2rem;
+  color: white;
+  /* padding: 0 2rem; */
+}
+
+progress {
+  height: 0.75rem;
+  appearance: none;
+  background-color: #eee;
+  border-radius: 0.5rem;
+  border: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 1);
+  width: 80%;
+  margin-top: 2rem;
+  /* background: orange; */
+}
+/* 
+progress[value]::-webkit-progress-value {
+  color: orange;
+} */
+
+progress::-moz-progress-bar {
+  background: rgb(184, 0, 197);
+}
+
+/* progress::-webkit-progress-value {
+  background: red;
+}
+
+progress::-webkit-progress-bar {
+  background: blue;
+} */
