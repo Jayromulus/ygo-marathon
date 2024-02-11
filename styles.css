@@ -39,6 +39,7 @@ progress[value]::-webkit-progress-value {
 } */
 
 progress::-moz-progress-bar {
+  /* changed color to orange */
   background: rgb(221, 129, 0);
 }
 
